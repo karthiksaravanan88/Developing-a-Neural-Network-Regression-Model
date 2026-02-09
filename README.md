@@ -45,9 +45,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: SATHISH B
+### Name: KARTHIK SARAVANAN B
 
-### Register Number: 212224040299
+### Register Number: 212224230118
 
 ```python
 
